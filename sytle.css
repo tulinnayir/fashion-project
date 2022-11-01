@@ -15,7 +15,7 @@ body{
 .navbar{
     height:10vh ;
     /*width: 100%;*/
-    background-color:#FF625C;
+    background-color:#C8A2C8;
     color: cornsilk;
     display: flex;
     align-items: center;/*dikey ortalicak*/
@@ -34,7 +34,7 @@ a{
     transition: 0.6;
 }
 
-h2{
+p{
     cursor: pointer;/*imleci pointer yaptı*/
     transition: 0.6;
     color:rgb(237, 234, 235)
